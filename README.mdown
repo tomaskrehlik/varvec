@@ -15,5 +15,7 @@ After this stage there will be stage of writing reasonable documentation for the
 
 * CIVAR
 * SVEC
-* FIVAR / FCVAR (In MATLAB style, as in here [http://www.econ.queensu.ca/faculty/mon/software/]. )
+* FIVAR / FCVAR (In MATLAB style, as in [here](http://www.econ.queensu.ca/faculty/mon/software/). )
 
+
+This package is under heavy developement so naming conventions might change as well as structure of the types.
